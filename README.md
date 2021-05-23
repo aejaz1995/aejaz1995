@@ -5,7 +5,7 @@
 
 - 🌱 I know **HTML CSS React Redux ExpressJS NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-aejaz-6qyww69rn-aejaz1995.vercel.app/](https://portfolio-aejaz-6qyww69rn-aejaz1995.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://aejazahmedportfolio-lacci5nyh-aejaz1995.vercel.app/](https://aejazahmedportfolio-lacci5nyh-aejaz1995.vercel.app/)
 
 - 📝 I write articles on [https://aejazahmedbnm.medium.com/](https://aejazahmedbnm.medium.com/)
 
