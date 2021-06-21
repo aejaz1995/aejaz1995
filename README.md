@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aejazahmedbnm@gmail.com**
 
-- 📄 My resume [https://drive.google.com/file/d/1C59Jn1hPi_ogcXRv8gouja5bMM5m0wzc/view?usp=sharing](https://drive.google.com/file/d/1C59Jn1hPi_ogcXRv8gouja5bMM5m0wzc/view?usp=sharing)
+- 📄 My resume [link](https://drive.google.com/file/d/1C59Jn1hPi_ogcXRv8gouja5bMM5m0wzc/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
