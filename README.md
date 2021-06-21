@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://aejazahmedportfolio.vercel.app/)
 
-- 📝 I write articles on [https://aejazahmedbnm.medium.com/](https://aejazahmedbnm.medium.com/)
+- 📝 I write articles on [Medium](https://aejazahmedbnm.medium.com/)
 
 - 📫 How to reach me **aejazahmedbnm@gmail.com**
 
